@@ -1,5 +1,3 @@
-# inflearn-springboot-basic
+# Inflearn-Springboot-Basic
 
----
-
-### Studying Springboot
+### Studying springboot
